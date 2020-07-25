@@ -1,0 +1,6 @@
+[submodule "react_frontend"]
+	path = react_frontend
+	url = https://github.com/praveesh91/react_frontend.git
+[submodule "node_express_api"]
+	path = node_express_api
+	url = https://github.com/praveesh91/node_express_api.git
